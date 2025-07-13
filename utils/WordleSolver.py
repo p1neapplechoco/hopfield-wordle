@@ -1,4 +1,4 @@
-from ModernHopfieldNetwork import ModernHopfieldNetwork as hf
+from .ModernHopfieldNetwork import ModernHopfieldNetwork as hf
 
 import string
 import numpy as np

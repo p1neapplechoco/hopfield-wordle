@@ -1,7 +1,7 @@
 import sys
 import pygame
 import numpy as np
-from WordleSolver import WordleSolver
+from utils import WordleSolver
 
 WORD_FILE = "words.txt"
 SCREEN_W, SCREEN_H = 800, 600
